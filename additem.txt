@@ -1,0 +1,1 @@
+	['walking_stick'] 					 	 = {['name'] = 'walking_stick', 			 	  	  		['label'] = 'Walking Stick', 				['weight'] = 0, 		['type'] = 'item', 		['image'] = 'visacard.png', 			['unique'] = true, 		['useable'] = true, 	['shouldClose'] = false,   ['combinable'] = nil,   ['description'] = 'Walking sticks'},
